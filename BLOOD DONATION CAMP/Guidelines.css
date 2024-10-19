@@ -1,0 +1,46 @@
+header{
+    font-size: 28px;
+    color:darksalmon;
+    margin:2px;
+    padding-left: 2px;
+}
+
+/*body{
+    background-image: url("Images/red.jfif");
+    background-size: 1000px 1000px;
+}*/
+ol{
+    list-style-position: inside;
+}
+img{
+    align-items:"center";
+    padding-left: 90px;
+}
+#aboutheading{
+    font-size: 24px;
+    font-style: bold;
+    color:cadetblue;
+}
+#purpose{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:maroon;
+    word-spacing: 5px;
+    text-indent:2px;
+}
+#Objlist li{
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:maroon;
+    list-style-position: inside;
+    list-style-type: disc; 
+    word-spacing: 5px;
+}
+#list1{
+    color:#721c24;
+    font-size: 17px;
+    word-spacing: 2px;
+}
+#list1 li{
+    color: black;
+}
